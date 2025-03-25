@@ -2,7 +2,6 @@
 # default_language_version:
 #   python: python3.13
 
-hooks:
 - id: pytest
   description: pytest unit testing
   entry: pytest
