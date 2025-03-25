@@ -2,6 +2,6 @@
   description: pytest unit testing
   entry: pytest
   language: python
-  language_version: 3.13
+  language_version: "3.13"
   name: Pytest
 
