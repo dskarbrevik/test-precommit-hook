@@ -1,9 +1,7 @@
-# minimum_pre_commit_version: 3.0.0
-# default_language_version:
-#   python: python3.13
-
 - id: pytest
   description: pytest unit testing
   entry: pytest
   language: python
+  language_version: 3.13
   name: Pytest
+
